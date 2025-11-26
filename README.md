@@ -1,10 +1,10 @@
-# The Science of Swearing: Research Visualizer
+# The Science of ********: Research Visualizer
 
 ![Project Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Built By](https://img.shields.io/badge/built%20by-itsashiish-orange)
 
-An interactive single-page application (SPA) that synthesizes key psychological and sociological research regarding the use of profanity. This project transforms static academic findings into an interactive narrative using dynamic data visualizations.
+The Science of Swearing an interactive single-page application (SPA) that synthesizes key psychological and sociological research regarding the use of profanity. This project transforms static academic findings into an interactive narrative using dynamic data visualizations.
 
 ## 📋 Overview
 
